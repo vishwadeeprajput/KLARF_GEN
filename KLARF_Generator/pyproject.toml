@@ -1,0 +1,10 @@
+[project]
+name = "klarf-generator"
+version = "1.0.0"
+description = "A standalone KLARF 1.2 Semiconductor Inspection File Generator."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "numpy>=1.26.4",
+    "pandas>=2.2.1"
+]

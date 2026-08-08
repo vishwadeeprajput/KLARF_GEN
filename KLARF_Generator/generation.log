@@ -1,0 +1,80 @@
+2026-08-08 16:28:53,710 - KLARF_Generator - INFO - Random seed set to 42
+2026-08-08 16:28:53,715 - KLARF_Generator - INFO - Parsed KLARF sample/AKAGEN_randomized_01.klarf: 307 dies found, DiePitch 10034.88x8756.8
+2026-08-08 16:28:53,722 - KLARF_Generator - INFO - Starting generation process...
+2026-08-08 16:28:53,722 - KLARF_Generator - INFO - Generating Lot: QAH0001
+2026-08-08 16:28:53,725 - KLARF_Generator - DEBUG - Wrote KLARF file: output/2023/01/QAH0001/Wafer001.klarf
+2026-08-08 16:28:53,725 - KLARF_Generator - INFO - Generated Wafer 001 in Lot QAH0001 with 85 defects.
+2026-08-08 16:28:53,725 - KLARF_Generator - INFO - Generation complete. Total wafers generated: 1
+2026-08-08 16:30:06,209 - KLARF_Generator - INFO - Random seed set to 42
+2026-08-08 16:30:06,214 - KLARF_Generator - INFO - Parsed KLARF sample/AKAGEN_randomized_01.klarf: 307 dies found, DiePitch 10034.88x8756.8
+2026-08-08 16:30:06,221 - KLARF_Generator - INFO - Starting generation process...
+2026-08-08 16:30:06,221 - KLARF_Generator - INFO - Generating Lot: QAH0001
+2026-08-08 16:30:06,224 - KLARF_Generator - DEBUG - Wrote KLARF file: output/2023/01/QAH0001/Wafer001.klarf
+2026-08-08 16:30:06,224 - KLARF_Generator - INFO - Generated Wafer 001 in Lot QAH0001 with 85 defects.
+2026-08-08 16:30:06,224 - KLARF_Generator - INFO - Generation complete. Total wafers generated: 1
+2026-08-08 16:31:46,952 - KLARF_Generator - INFO - Random seed set to 42
+2026-08-08 16:31:46,956 - KLARF_Generator - INFO - Parsed KLARF sample/AKAGEN_randomized_01.klarf: 307 dies found, DiePitch 10034.88x8756.8
+2026-08-08 16:31:46,963 - KLARF_Generator - INFO - Starting generation process...
+2026-08-08 16:31:46,963 - KLARF_Generator - INFO - Generating Lot: QAH0001
+2026-08-08 16:31:46,966 - KLARF_Generator - DEBUG - Wrote KLARF file: output/2023/01/QAH0001/Wafer001.klarf
+2026-08-08 16:31:46,966 - KLARF_Generator - INFO - Generated Wafer 001 in Lot QAH0001 with 85 defects.
+2026-08-08 16:31:46,966 - KLARF_Generator - INFO - Generation complete. Total wafers generated: 1
+2026-08-08 16:33:23,033 - KLARF_Generator - INFO - Random seed set to 42
+2026-08-08 16:33:23,038 - KLARF_Generator - INFO - Parsed KLARF sample/AKAGEN_randomized_01.klarf: 307 dies found, DiePitch 10034.88x8756.8
+2026-08-08 16:33:23,045 - KLARF_Generator - INFO - Starting generation process...
+2026-08-08 16:33:23,045 - KLARF_Generator - INFO - Generating Lot: QAH0001
+2026-08-08 16:33:23,048 - KLARF_Generator - DEBUG - Wrote KLARF file: output/2023/01/QAH0001/Wafer001.klarf
+2026-08-08 16:33:23,048 - KLARF_Generator - INFO - Generated Wafer 001 in Lot QAH0001 with 85 defects.
+2026-08-08 16:33:23,048 - KLARF_Generator - INFO - Generation complete. Total wafers generated: 1
+2026-08-08 16:36:15,037 - KLARF_Generator - INFO - Random seed set to 42
+2026-08-08 16:36:15,042 - KLARF_Generator - INFO - Parsed KLARF sample/AKAGEN_randomized_01.klarf: 307 dies found, DiePitch 10034.88x8756.8
+2026-08-08 16:36:15,048 - KLARF_Generator - INFO - Starting generation process...
+2026-08-08 16:36:15,048 - KLARF_Generator - INFO - Generating Lot: QAH0001
+2026-08-08 16:36:15,052 - KLARF_Generator - DEBUG - Wrote KLARF file: output2/2023/01/QAH0001/Wafer001.klarf
+2026-08-08 16:36:15,052 - KLARF_Generator - INFO - Generated Wafer 001 in Lot QAH0001 with 85 defects.
+2026-08-08 16:36:15,052 - KLARF_Generator - INFO - Generation complete. Total wafers generated: 1
+2026-08-08 16:37:45,388 - KLARF_Generator - INFO - Random seed set to 42
+2026-08-08 16:37:45,392 - KLARF_Generator - INFO - Parsed KLARF sample/AKAGEN_randomized_01.klarf: 307 dies found, DiePitch 10034.88x8756.8
+2026-08-08 16:37:45,399 - KLARF_Generator - INFO - Starting generation process...
+2026-08-08 16:37:45,399 - KLARF_Generator - INFO - Generating Lot: QAH0001
+2026-08-08 16:37:45,403 - KLARF_Generator - DEBUG - Wrote KLARF file: output3/2023/01/QAH0001/Wafer001.klarf
+2026-08-08 16:37:45,403 - KLARF_Generator - INFO - Generated Wafer 001 in Lot QAH0001 with 85 defects.
+2026-08-08 16:37:45,403 - KLARF_Generator - INFO - Generation complete. Total wafers generated: 1
+2026-08-08 16:39:04,129 - KLARF_Generator - INFO - Random seed set to 42
+2026-08-08 16:39:04,134 - KLARF_Generator - INFO - Parsed KLARF sample/AKAGEN_randomized_01.klarf: 307 dies found, DiePitch 10034.88x8756.8
+2026-08-08 16:39:04,140 - KLARF_Generator - INFO - Starting generation process...
+2026-08-08 16:39:04,140 - KLARF_Generator - INFO - Generating Lot: QAH0001
+2026-08-08 16:39:04,143 - KLARF_Generator - DEBUG - Wrote KLARF file: output4/2023/01/QAH0001/Wafer001.klarf
+2026-08-08 16:39:04,143 - KLARF_Generator - INFO - Generated Wafer 001 in Lot QAH0001 with 85 defects.
+2026-08-08 16:39:04,143 - KLARF_Generator - INFO - Generation complete. Total wafers generated: 1
+2026-08-08 16:40:18,451 - KLARF_Generator - INFO - Random seed set to 42
+2026-08-08 16:40:18,456 - KLARF_Generator - INFO - Parsed KLARF sample/AKAGEN_randomized_01.klarf: 307 dies found, DiePitch 10034.88x8756.8
+2026-08-08 16:40:18,462 - KLARF_Generator - INFO - Starting generation process...
+2026-08-08 16:40:18,463 - KLARF_Generator - INFO - Generating Lot: QAH0001
+2026-08-08 16:40:18,466 - KLARF_Generator - DEBUG - Wrote KLARF file: output5/2023/01/QAH0001/Wafer001.klarf
+2026-08-08 16:40:18,467 - KLARF_Generator - INFO - Generated Wafer 001 in Lot QAH0001 with 85 defects.
+2026-08-08 16:40:18,467 - KLARF_Generator - INFO - Generation complete. Total wafers generated: 1
+2026-08-08 16:41:37,736 - KLARF_Generator - INFO - Random seed set to 42
+2026-08-08 16:41:37,740 - KLARF_Generator - INFO - Parsed KLARF sample/AKAGEN_randomized_01.klarf: 307 dies found, DiePitch 10034.88x8756.8
+2026-08-08 16:41:37,746 - KLARF_Generator - INFO - Starting generation process...
+2026-08-08 16:41:37,746 - KLARF_Generator - INFO - Generating Lot: QAH0001
+2026-08-08 16:41:37,750 - KLARF_Generator - DEBUG - Wrote KLARF file: output6/2023/01/QAH0001/Wafer001.klarf
+2026-08-08 16:41:37,750 - KLARF_Generator - INFO - Generated Wafer 001 in Lot QAH0001 with 85 defects.
+2026-08-08 16:41:37,750 - KLARF_Generator - INFO - Generation complete. Total wafers generated: 1
+2026-08-08 16:42:20,823 - KLARF_Generator - INFO - Parsed KLARF /app/KLARF_Generator/tests/../sample/AKAGEN_randomized_01.klarf: 307 dies found, DiePitch 10034.88x8756.8
+2026-08-08 16:42:20,824 - KLARF_Generator - ERROR - Defect ID 2 is at invalid die (3, 3).
+2026-08-08 16:42:20,824 - KLARF_Generator - ERROR - Defect count 2500 is outside allowed range [0, 2000]. Max allowed is 2000.
+2026-08-08 16:42:48,504 - KLARF_Generator - INFO - Parsed KLARF /app/KLARF_Generator/tests/../sample/AKAGEN_randomized_01.klarf: 307 dies found, DiePitch 10034.88x8756.8
+2026-08-08 16:42:48,504 - KLARF_Generator - ERROR - Defect ID 2 is at invalid die (3, 3).
+2026-08-08 16:42:48,504 - KLARF_Generator - ERROR - Defect count 2500 is outside allowed range [0, 2000]. Max allowed is 2000.
+2026-08-08 16:44:13,677 - KLARF_Generator - INFO - Parsed KLARF /app/KLARF_Generator/tests/../sample/AKAGEN_randomized_01.klarf: 307 dies found, DiePitch 10034.88x8756.8
+2026-08-08 16:44:13,678 - KLARF_Generator - ERROR - Defect ID 2 is at invalid die (3, 3).
+2026-08-08 16:44:13,678 - KLARF_Generator - ERROR - Defect count 2500 is outside allowed range [0, 2000]. Max allowed is 2000.
+2026-08-08 16:44:13,679 - KLARF_Generator - DEBUG - Wrote KLARF file: test_output/2023/01/TEST_LOT/Wafer001.klarf
+2026-08-08 16:44:34,781 - KLARF_Generator - INFO - Random seed set to 42
+2026-08-08 16:44:34,786 - KLARF_Generator - INFO - Parsed KLARF sample/AKAGEN_randomized_01.klarf: 307 dies found, DiePitch 10034.88x8756.8
+2026-08-08 16:44:34,793 - KLARF_Generator - INFO - Starting generation process...
+2026-08-08 16:44:34,793 - KLARF_Generator - INFO - Generating Lot: QAH0001
+2026-08-08 16:44:34,796 - KLARF_Generator - DEBUG - Wrote KLARF file: output7/2023/01/QAH0001/Wafer001.klarf
+2026-08-08 16:44:34,796 - KLARF_Generator - INFO - Generated Wafer 001 in Lot QAH0001 with 85 defects.
+2026-08-08 16:44:34,796 - KLARF_Generator - INFO - Generation complete. Total wafers generated: 1

@@ -1,0 +1,15 @@
+2026-08-08 16:14:26,465 - KLARF_Generator - INFO - Parsed KLARF KLARF_Generator/sample/AKAGEN_randomized_01.klarf: 307 dies found, DiePitch 10034.88x8756.8
+2026-08-08 16:20:28,892 - KLARF_Generator - ERROR - Defect ID 2 is at invalid die (3, 3).
+2026-08-08 16:20:28,892 - KLARF_Generator - ERROR - Defect count 2500 is outside allowed range [0, 2000]. Max allowed is 2000.
+2026-08-08 16:21:17,760 - KLARF_Generator - INFO - Parsed KLARF /app/KLARF_Generator/tests/../sample/AKAGEN_randomized_01.klarf: 307 dies found, DiePitch 10034.88x8756.8
+2026-08-08 16:21:17,761 - KLARF_Generator - ERROR - Defect ID 2 is at invalid die (3, 3).
+2026-08-08 16:21:17,761 - KLARF_Generator - ERROR - Defect count 2500 is outside allowed range [0, 2000]. Max allowed is 2000.
+2026-08-08 16:23:38,354 - KLARF_Generator - INFO - Parsed KLARF /app/KLARF_Generator/tests/../sample/AKAGEN_randomized_01.klarf: 307 dies found, DiePitch 10034.88x8756.8
+2026-08-08 16:23:38,354 - KLARF_Generator - ERROR - Defect ID 2 is at invalid die (3, 3).
+2026-08-08 16:23:38,354 - KLARF_Generator - ERROR - Defect count 2500 is outside allowed range [0, 2000]. Max allowed is 2000.
+2026-08-08 16:27:37,678 - KLARF_Generator - INFO - Parsed KLARF /app/KLARF_Generator/tests/../sample/AKAGEN_randomized_01.klarf: 307 dies found, DiePitch 10034.88x8756.8
+2026-08-08 16:27:37,679 - KLARF_Generator - ERROR - Defect ID 2 is at invalid die (3, 3).
+2026-08-08 16:27:37,679 - KLARF_Generator - ERROR - Defect count 2500 is outside allowed range [0, 2000]. Max allowed is 2000.
+2026-08-08 16:28:34,152 - KLARF_Generator - INFO - Parsed KLARF /app/KLARF_Generator/tests/../sample/AKAGEN_randomized_01.klarf: 307 dies found, DiePitch 10034.88x8756.8
+2026-08-08 16:28:34,152 - KLARF_Generator - ERROR - Defect ID 2 is at invalid die (3, 3).
+2026-08-08 16:28:34,152 - KLARF_Generator - ERROR - Defect count 2500 is outside allowed range [0, 2000]. Max allowed is 2000.
